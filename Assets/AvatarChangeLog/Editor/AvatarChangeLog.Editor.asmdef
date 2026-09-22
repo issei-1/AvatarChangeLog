@@ -1,0 +1,7 @@
+{
+  "name": "AvatarChangeLog.Editor",
+  "rootNamespace": "AvatarChangeLog",
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}
