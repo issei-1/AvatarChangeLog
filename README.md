@@ -6,9 +6,9 @@ VRChatアバターの改変を自動記録するUnity Editor拡張です。
 
 ## ダウンロード
 
-- [最新版のunitypackageをダウンロード](https://github.com/issei-z/AvatarChangeLog/releases/latest/download/AvatarChangeLog-0.1.1.unitypackage)
-- [説明書付きZIPをダウンロード](https://github.com/issei-z/AvatarChangeLog/releases/latest/download/AvatarChangeLog-0.1.1.zip)
-- [リリース一覧](https://github.com/issei-z/AvatarChangeLog/releases)
+- [最新版のunitypackageをダウンロード](https://github.com/issei-1/AvatarChangeLog/releases/latest/download/AvatarChangeLog-0.1.1.unitypackage)
+- [説明書付きZIPをダウンロード](https://github.com/issei-1/AvatarChangeLog/releases/latest/download/AvatarChangeLog-0.1.1.zip)
+- [リリース一覧](https://github.com/issei-1/AvatarChangeLog/releases)
 
 通常の導入にはunitypackageを使用してください。ソースコードはこのリポジトリのAssets/AvatarChangeLogにあります。
 
