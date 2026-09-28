@@ -1,7 +1,7 @@
 # Avatar Change Log v0.1.1
 
 最新版 v0.1.1 をGitHubで公開しています。
-VRChatアバターの改変を自動記録するUnity Editor拡張です。
+アバターの改変を自動記録するUnity Editor拡張です。
 
 ## ダウンロード
 
